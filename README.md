@@ -11,7 +11,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/LaVie-colab/blob/main/LaVie_colab.ipynb) | LaVie_colab
 
 ## Main Repo
-https://github.com/Vchitect/LaVie
+https://github.com/Vchitect/LaVie <br />
+https://huggingface.co/spaces/Vchitect/LaVie/tree/main <br />
 
 ## Paper
 https://arxiv.org/abs/2309.15103
