@@ -21,5 +21,7 @@ https://vchitect.github.io/LaVie-project/
 
 ## Output
 
+https://github.com/camenduru/LaVie-colab/assets/54370274/0dbea225-3d38-4c5b-9da7-710c2aaf4774
+
 ## Sponsor
 https://modelslab.com
